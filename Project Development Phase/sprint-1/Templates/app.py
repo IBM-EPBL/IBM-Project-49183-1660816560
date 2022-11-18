@@ -1,6 +1,6 @@
 import sqlite3 as sql
 
-from flask import (Flask, jsonify, redirect, render_template, request, session,
+from flask import (Flask, redirect, render_template, request, session,
                    url_for,flash)
 from flask_sqlalchemy import SQLAlchemy
 from markupsafe import escape
