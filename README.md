@@ -1,4 +1,4 @@
-                                                             IBM-Project-49183-1660816560 
+                                                 IBM-Project-49183-1660816560 
                                                              
 Project:Smart Fashion Recommender Application
 
