@@ -1,7 +1,9 @@
                                                              IBM-Project-49183-1660816560 
                                                              
 Project:Smart Fashion Recommender Application
+
 Technology:Cloud App Development 
+
 Domain:E-Commerce
 
 Team Members:
